@@ -4,5 +4,5 @@
   <img src="Figures/3gridfoto.png" width="500px"/></p>
 </center>
 <p align="center">
-  <img src="Spec.png" width="500px"/></p>
+  <img src="Figures/Spec.png" width="500px"/></p>
 </center>
