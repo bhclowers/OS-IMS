@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="463.1752"
+   height="287.69489"
+   id="svg137"
+   viewBox="0 0 463.1752 287.69489"
+   sodipodi:docname="3 Grid Shutter.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview139"
+     showgrid="false"
+     inkscape:zoom="1.2263178"
+     inkscape:cx="200.0451"
+     inkscape:cy="131.19606"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg137" />
+  <path
+     d="m 165.2411,46.7215 v 85.0393"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6, 6, 6, 6"
+     id="path2"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <path
+     d="m 229.0207,46.7215 v 85.0393"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6, 6, 6, 6"
+     id="path4"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <path
+     d="m 292.8002,46.7215 v 85.0393"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6, 6, 6, 6"
+     id="path6"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs11">
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5405"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5403"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5307"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5305" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5219"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5217" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5095"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5093"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5029"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5027" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4737"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4734"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       id="endMarker1"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline8" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-0-5"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4737-4-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+  </defs>
+  <path
+     d="M 165.2411,131.7608 V 245.1467"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:;marker-start:url(#marker5095)"
+     id="path13"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs18">
+    <marker
+       id="endMarker2"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline15" />
+    </marker>
+  </defs>
+  <path
+     d="M 292.8002,131.7608 V 245.1467"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:;marker-start:url(#marker5029)"
+     id="path20"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs25">
+    <marker
+       id="startMarker1"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5">
+      <polyline
+         points="10,0 0,5 10,10 9,5"
+         fill="solid"
+         id="polyline22" />
+    </marker>
+  </defs>
+  <defs
+     id="defs30">
+    <marker
+       id="endMarker3"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline27" />
+    </marker>
+  </defs>
+  <path
+     d="m 165.63911,216.8002 h 9.43838"
+     style="fill:none;stroke:#000000;stroke-width:0.74999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#DotM)"
+     id="path32"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs47">
+    <marker
+       id="endMarker4"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline44" />
+    </marker>
+  </defs>
+  <path
+     d="m 186.501,245.1467 h 85.0394"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker4)"
+     id="path49"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs54">
+    <marker
+       id="startMarker2"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5">
+      <polyline
+         points="10,0 0,5 10,10 9,5"
+         fill="solid"
+         id="polyline51" />
+    </marker>
+  </defs>
+  <defs
+     id="defs59">
+    <marker
+       id="endMarker5"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline56" />
+    </marker>
+  </defs>
+  <path
+     d="m 243.1939,145.9341 v 70.8661"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#marker5405);marker-end:url(#marker5405)"
+     id="path61"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <path
+     d="m 229.0207,175.5404 a 12.7559,12.7559 -180 1 1 -12.7559,-12.756 12.7559,12.7559 -180 0 1 12.7559,12.756 z"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     id="path63"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <path
+     d="m 220.7554,148.2913 8.2653,-16.5305"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     id="path65"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs70">
+    <marker
+       id="endMarker6"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline67" />
+    </marker>
+  </defs>
+  <path
+     d="m 200.6742,154.0457 v 41.4947"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker6)"
+     id="path72"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <defs
+     id="defs77">
+    <marker
+       id="endMarker7"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline74" />
+    </marker>
+  </defs>
+  <path
+     d="M 233.2726,143.0994 A 14.1732,14.1732 -135 0 1 219.0994,128.9262"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker7)"
+     id="path79"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <text
+     x="217.45592"
+     y="261.04971"
+     id="text85"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="12.0000"
+       id="tspan83"
+       style="font-size:12px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-opacity:1">V<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4649">gate</tspan>
+</tspan>
+  </text>
+  <text
+     x="170.80424"
+     y="177.06551"
+     id="text91"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="12.0000"
+       id="tspan87"
+       style="font-size:12px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-opacity:1">V</tspan>
+    <tspan
+       font-size="12.0000"
+       id="tspan89"
+       style="font-size:64.99999762%;font-family:Arial;baseline-shift:sub;fill:#000000;fill-opacity:1;stroke-opacity:1">close</tspan>
+  </text>
+  <text
+     x="156.4852"
+     y="28.375"
+     id="text111"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="14.0000"
+       id="tspan109"
+       style="font-size:14px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1">Grid<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5185">1</tspan>
+</tspan>
+  </text>
+  <text
+     x="220.2648"
+     y="28.375"
+     id="text115"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="14.0000"
+       id="tspan113"
+       style="font-size:14px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1">Grid<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5187">2</tspan>
+</tspan>
+  </text>
+  <text
+     x="282.62701"
+     y="28.375"
+     id="text119"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="14.0000"
+       id="tspan117"
+       style="font-size:14px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1">Grid<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5189">3</tspan>
+</tspan>
+  </text>
+  <defs
+     id="defs124">
+    <marker
+       id="startMarker3"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5">
+      <polyline
+         points="10,0 0,5 10,10 9,5"
+         fill="solid"
+         id="polyline121" />
+    </marker>
+  </defs>
+  <defs
+     id="defs129">
+    <marker
+       id="endMarker8"
+       markerUnits="strokeWidth"
+       orient="auto"
+       markerWidth="8"
+       markerHeight="6"
+       viewBox="0 0 10 10"
+       refX="1"
+       refY="5">
+      <polyline
+         points="0,0 10,5 0,10 1,5"
+         fill="solid"
+         id="polyline126" />
+    </marker>
+  </defs>
+  <path
+     d="m 216.1603,145.9341 v 70.8661"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#marker5219);marker-end:url(#marker5307)"
+     id="path131"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <text
+     x="248.07356"
+     y="147.89766"
+     id="text135"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="10.0000"
+       id="tspan133"
+       style="font-size:10px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-opacity:1">open</tspan>
+  </text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="159.0126"
+     y="26.75111"
+     id="text5183"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299"><tspan
+       sodipodi:role="line"
+       id="tspan5181"
+       x="159.0126"
+       y="62.255943" /></text>
+  <text
+     x="188.25204"
+     y="147.50661"
+     id="text135-6"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <tspan
+       font-size="10.0000"
+       id="tspan133-5"
+       style="font-size:10px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-opacity:1">close</tspan>
+  </text>
+  <g
+     id="g4062"
+     transform="matrix(1.9042971,0,0,2,-71.193822,-130.57921)"
+     style="stroke-width:0.38430753;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3970"
+       d="m 147.27468,173.67554 -1.49698,-3.5433 -2.99398,7.08661 -2.99397,-7.08661 -2.99398,7.08661 -2.99397,-7.08661 -2.99398,7.08661 -1.49698,-3.54331"
+       style="fill:none;stroke:#000000;stroke-width:0.38430753;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <path
+     d="m 209.34014,216.77187 h 41.26604"
+     style="fill:none;stroke:#000000;stroke-width:0.74999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     id="path32-7"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <path
+     d="m 285.10449,217.06017 h 7.75138"
+     style="fill:none;stroke:#000000;stroke-width:0.75000006;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotM-0-5)"
+     id="path32-7-7"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299" />
+  <g
+     id="g4062-8"
+     transform="matrix(1.9042971,0,0,2,4.930709,-130.2909)"
+     style="stroke-width:0.38430753;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:export-xdpi="300.06299"
+     inkscape:export-ydpi="300.06299">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3970-1"
+       d="m 147.27468,173.67554 -1.49698,-3.5433 -2.99398,7.08661 -2.99397,-7.08661 -2.99398,7.08661 -2.99397,-7.08661 -2.99398,7.08661 -1.49698,-3.54331"
+       style="fill:none;stroke:#000000;stroke-width:0.38430753;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
