@@ -18,5 +18,5 @@ The PCB-IMS is an open source project by [*Tobias Reinecke*](mailto:treinecke@gm
 The use, modification, and implementation of this project is goverened by the [CERN Open Hardware Licence v1.2](LICENSE).
 
 #### Acknowledgements:
-* This work was supported in part by the National Science Foundation (CHE-1506672) and DTRA (Award Number: DTRA1-14-1-0023)
+* This work was supported in part by the National Science Foundation (CHE-1506672) and DTRA (Award Number: HDTRA1-14-1-0023)
 * We would also like to acknowledge the dedicated, prolific, and timeless efforts of [*Gordon A. Anderson*](https://github.com/GordonAnderson).  
