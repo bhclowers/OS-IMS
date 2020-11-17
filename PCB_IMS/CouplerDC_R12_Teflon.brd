@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.3">
+<eagle version="9.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -155,22 +155,22 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="48.3362" x2="0" y2="0.0762" width="0.127" layer="20"/>
+<wire x1="0" y1="48.3362" x2="0" y2="0" width="0.127" layer="20"/>
 <text x="39.614540625" y="25.5585375" size="0.8128" layer="21" rot="R180">1.6 mm Electrode Thickness
 2 x 1 mm Spacer or
 1.6 mm Spacer and 2 Teflon Spacers
 </text>
-<wire x1="0" y1="48.3362" x2="0" y2="0.0762" width="0.127" layer="20"/>
-<wire x1="0" y1="0.0762" x2="104.4" y2="0.0762" width="0.127" layer="20"/>
-<wire x1="104.4" y1="0.0762" x2="104.4" y2="48.3362" width="0.127" layer="20"/>
+<wire x1="0" y1="48.3362" x2="0" y2="0" width="0.127" layer="20"/>
+<wire x1="0" y1="0" x2="104.4" y2="0" width="0.127" layer="20"/>
+<wire x1="104.4" y1="0" x2="104.4" y2="48.3362" width="0.127" layer="20"/>
 <wire x1="104.4" y1="48.3362" x2="0" y2="48.3362" width="0.127" layer="20"/>
 <wire x1="0" y1="48.3362" x2="0" y2="0.0762" width="0.127" layer="46"/>
 <wire x1="0" y1="0.0762" x2="104.4" y2="0.0762" width="0.127" layer="46"/>
 <wire x1="104.4" y1="0.0762" x2="104.4" y2="48.3362" width="0.127" layer="46"/>
 <wire x1="104.4" y1="48.3362" x2="0" y2="48.3362" width="0.127" layer="46"/>
-<wire x1="0" y1="0.0762" x2="104.4" y2="0.0762" width="0.127" layer="20"/>
-<wire x1="0" y1="0.0762" x2="104.4" y2="0.0762" width="0.127" layer="20"/>
-<wire x1="0" y1="0.0762" x2="104.4" y2="0.0762" width="0.127" layer="20"/>
+<wire x1="0" y1="0" x2="104.4" y2="0" width="0.127" layer="20"/>
+<wire x1="0" y1="0" x2="104.4" y2="0" width="0.127" layer="20"/>
+<wire x1="0" y1="0" x2="104.4" y2="0" width="0.127" layer="20"/>
 </plain>
 <libraries>
 <library name="SparkFun-Resistors" urn="urn:adsk.eagle:library:532">
@@ -440,67 +440,160 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="E$149" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="98.966159375" y="18.57965625" rot="R270"/>
-<element name="E$30" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="91.766159375" y="18.57965625" rot="R270"/>
-<element name="E$31" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="84.566159375" y="18.57965625" rot="R270"/>
-<element name="E$32" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="77.366159375" y="18.57965625" rot="R270"/>
-<element name="E$33" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="70.166159375" y="18.57965625" rot="R270"/>
-<element name="E$34" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="62.966159375" y="18.57965625" rot="R270"/>
-<element name="E$35" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="55.766159375" y="18.57965625" rot="R270"/>
-<element name="E$36" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="48.566159375" y="18.57965625" rot="R270"/>
-<element name="E$37" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="41.366159375" y="18.57965625" rot="R270"/>
-<element name="E$38" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="34.166159375" y="18.57965625" rot="R270"/>
-<element name="E$39" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="26.966159375" y="18.57965625" rot="R270"/>
-<element name="E$40" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="19.766159375" y="18.57965625" rot="R270"/>
-<element name="E$41" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="12.566159375" y="18.57965625" rot="R270"/>
-<element name="E$43" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="5.366159375" y="18.57965625" rot="R270"/>
-<element name="E$42" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="95.366159375" y="29.83965625" rot="R270"/>
-<element name="E$44" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="88.166159375" y="29.83965625" rot="R270"/>
-<element name="E$45" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="80.966159375" y="29.83965625" rot="R270"/>
-<element name="E$46" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="73.766159375" y="29.83965625" rot="R270"/>
-<element name="E$47" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="66.566159375" y="29.83965625" rot="R270"/>
-<element name="E$48" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="59.366159375" y="29.83965625" rot="R270"/>
-<element name="E$49" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="52.166159375" y="29.83965625" rot="R270"/>
-<element name="E$50" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="44.966159375" y="29.83965625" rot="R270"/>
-<element name="E$51" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="37.766159375" y="29.83965625" rot="R270"/>
-<element name="E$52" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="30.566159375" y="29.83965625" rot="R270"/>
-<element name="E$53" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="23.366159375" y="29.83965625" rot="R270"/>
-<element name="E$54" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="16.166159375" y="29.83965625" rot="R270"/>
-<element name="E$55" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="8.966159375" y="29.83965625" rot="R270"/>
-<element name="E$56" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="1.766159375" y="29.83965625" rot="R270"/>
-<element name="E$57" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="102.566159375" y="29.83965625" rot="R270"/>
-<element name="E$1" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="1.80975" y="41.74525" rot="R90"/>
-<element name="E$2" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="9.00975" y="41.74525" rot="R90"/>
-<element name="E$3" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="16.20975" y="41.74525" rot="R90"/>
-<element name="E$4" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="23.40975" y="41.74525" rot="R90"/>
-<element name="E$5" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="30.60975" y="41.74525" rot="R90"/>
-<element name="E$6" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="37.80975" y="41.74525" rot="R90"/>
-<element name="E$7" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="45.00975" y="41.74525" rot="R90"/>
-<element name="E$8" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="52.20975" y="41.74525" rot="R90"/>
-<element name="E$9" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="59.40975" y="41.74525" rot="R90"/>
-<element name="E$10" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="66.60975" y="41.74525" rot="R90"/>
-<element name="E$11" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="73.80975" y="41.74525" rot="R90"/>
-<element name="E$12" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="81.00975" y="41.74525" rot="R90"/>
-<element name="E$13" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="88.20975" y="41.74525" rot="R90"/>
-<element name="E$14" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="95.40975" y="41.74525" rot="R90"/>
-<element name="E$15" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="102.60975" y="41.74525" rot="R90"/>
-<element name="E$16" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="5.40975" y="6.74525" rot="R90"/>
-<element name="E$17" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="12.60975" y="6.74525" rot="R90"/>
-<element name="E$18" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="19.80975" y="6.74525" rot="R90"/>
-<element name="E$19" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="27.00975" y="6.74525" rot="R90"/>
-<element name="E$20" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="34.20975" y="6.74525" rot="R90"/>
-<element name="E$21" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="41.40975" y="6.74525" rot="R90"/>
-<element name="E$22" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="48.60975" y="6.74525" rot="R90"/>
-<element name="E$23" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="55.80975" y="6.74525" rot="R90"/>
-<element name="E$24" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="63.00975" y="6.74525" rot="R90"/>
-<element name="E$25" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="70.20975" y="6.74525" rot="R90"/>
-<element name="E$26" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="77.40975" y="6.74525" rot="R90"/>
-<element name="E$27" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="70.20975" y="6.74525" rot="R90"/>
-<element name="E$28" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="84.60975" y="6.74525" rot="R90"/>
-<element name="E$29" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="91.80975" y="6.74525" rot="R90"/>
-<element name="E$58" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="99.00975" y="6.74525" rot="R90"/>
-<element name="E$59" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="SMD1,27-2,54" package3d_urn="urn:adsk.eagle:package:30839/1" value="" x="1.868321875" y="23.632859375" rot="R180"/>
-<element name="E$60" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="SMD1,27-2,54" package3d_urn="urn:adsk.eagle:package:30839/1" value="" x="102.57295625" y="16.528628125"/>
+<element name="E$149" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="98.966159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="100.109159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="97.823159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$30" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="91.766159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="92.909159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="90.623159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$31" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="84.566159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="85.709159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="83.423159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$32" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="77.366159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="78.509159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="76.223159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$33" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="70.166159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="71.309159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="69.023159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$34" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="62.966159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="64.109159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="61.823159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$35" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="55.766159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="56.909159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="54.623159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$36" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="48.566159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="49.709159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="47.423159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$37" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="41.366159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="42.509159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="40.223159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$38" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="34.166159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="35.309159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="33.023159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$39" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="26.966159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="28.109159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="25.823159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$40" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="19.766159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="20.909159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="18.623159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$41" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="12.566159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="13.709159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="11.423159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$43" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="5.366159375" y="18.57965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="6.509159375" y="18.57965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="4.223159375" y="18.57965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$42" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="95.366159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="96.509159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="94.223159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$44" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="88.166159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="89.309159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="87.023159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$45" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="80.966159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="82.109159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="79.823159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$46" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="73.766159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="74.909159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="72.623159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$47" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="66.566159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="67.709159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="65.423159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$48" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="59.366159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="60.509159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="58.223159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$49" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="52.166159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="53.309159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="51.023159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$50" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="44.966159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="46.109159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="43.823159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$51" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="37.766159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="38.909159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="36.623159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$52" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="30.566159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="31.709159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="29.423159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$53" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="23.366159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="24.509159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="22.223159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$54" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="16.166159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="17.309159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="15.023159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$55" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="8.966159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="10.109159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="7.823159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$56" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="1.766159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="2.909159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="0.623159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$57" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="1206" value="" x="102.566159375" y="29.83965625" smashed="yes" rot="R270">
+<attribute name="NAME" x="103.709159375" y="29.83965625" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="101.423159375" y="29.83965625" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+</element>
+<element name="E$1" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="1.80975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$2" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="9.00975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$3" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="16.20975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$4" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="23.40975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$5" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="30.60975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$6" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="37.80975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$7" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="45.00975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$8" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="52.20975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$9" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="59.40975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$10" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="66.60975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$11" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="73.80975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$12" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="81.00975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$13" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="88.20975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$14" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="95.40975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$15" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="102.60975" y="41.74525" smashed="yes" rot="R90"/>
+<element name="E$16" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="5.40975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$17" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="12.60975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$18" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="19.80975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$19" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="27.00975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$20" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="34.20975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$21" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="41.40975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$22" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="48.60975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$23" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="55.80975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$24" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="63.00975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$25" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="70.20975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$26" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="77.40975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$27" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="70.20975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$28" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="84.60975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$29" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="91.80975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$58" library="CouplerDC_v2" package="GAAEXTENSIONS_SLOT3" value="" x="99.00975" y="6.74525" smashed="yes" rot="R90"/>
+<element name="E$59" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="SMD1,27-2,54" package3d_urn="urn:adsk.eagle:package:30839/1" value="" x="1.868321875" y="23.632859375" smashed="yes" rot="R180">
+<attribute name="NAME" x="2.668321875" y="26.032859375" size="1.27" layer="25" rot="R270"/>
+<attribute name="VALUE" x="1.868321875" y="23.632859375" size="0.0254" layer="27" rot="R180"/>
+</element>
+<element name="E$60" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="SMD1,27-2,54" package3d_urn="urn:adsk.eagle:package:30839/1" value="" x="102.57295625" y="16.528628125" smashed="yes">
+<attribute name="NAME" x="101.77295625" y="14.128628125" size="1.27" layer="25" rot="R90"/>
+<attribute name="VALUE" x="102.57295625" y="16.528628125" size="0.0254" layer="27"/>
+</element>
 </elements>
 <signals>
 <signal name="S$51">
