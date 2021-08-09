@@ -2,3 +2,5 @@
 
 Note: 
 * Designs are currently in solidworks.  Should you not have access to this CAD platform, consider the use of OnShape for conversion to STL for printing or fabrication.
+* 
+<img align="center" src="https://github.com/bhclowers/OS-IMS/blob/master/PCB_IMS/FlexIMS/FlexIMS_Holder.png?raw=true">
